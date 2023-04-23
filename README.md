@@ -1,2 +1,2 @@
 # practice_markdown
-Help people interested in this repository understand your project by adding a README.
+Helping people interested in this repository understand my project by adding a README.
