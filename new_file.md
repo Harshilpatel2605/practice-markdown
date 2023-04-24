@@ -3,23 +3,23 @@ ____________
 # this is a heading 
 Go to..
 >
->[section1](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-1)
+>[section 1](#section-1)
 >
->[section2](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-2)
+>[section 2](#section-2)
 >
->[section3](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-3)
+>[section 3](#section-3)
 >
->[section4](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-4)
+>[section 4](#section-4)
 >
->[section5](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-5)
+>[section 5](#section-5)
 >
->[section6](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-6)
+>[section 6](#section-6)
 >
->[section7](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-7)
+>[section 7](#section-7)
 >
->[section8](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-8)
+>[section 8](#section-8)
 _____________
-## section 1
+## section 1 
 in this section we will talk about bold, italics and line break.
 ### 1.1
 this is **bold text**
