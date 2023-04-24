@@ -1,7 +1,23 @@
 start of file.....
-____________0
+____________
 # this is a heading 
-this is some starter content 
+Go to..
+>
+>[section1](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-1)
+>
+>[section2](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-2)
+>
+>[section3](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-3)
+>
+>[section4](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-4)
+>
+>[section5](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-5)
+>
+>[section6](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-6)
+>
+>[section7](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-7)
+>
+>[section8](#https://github.com/Harshilpatel2605/practice-markdown/blob/main/new_file.md#section-8)
 _____________
 ## section 1
 in this section we will talk about bold, italics and line break.
@@ -76,7 +92,7 @@ ___________________
 ## section 7
 adding images :
 
-![here alternate text comes](D:\IIT MEMORIES\IMG_1993.HEIC)
+![here alternate text comes](https://images.unsplash.com/photo-1585521747230-516376e5a85d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGlsZSUyMG9mJTIwYm9va3N8ZW58MHx8MHx8&w=1000&q=80)
 
 ## section 8
 adding table.
