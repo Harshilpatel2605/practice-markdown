@@ -19,7 +19,7 @@ Go to..
 >
 >[section 8](#section-8)
 _____________
-## section 1 
+## section 1  
 in this section we will talk about bold, italics and line break.
 ### 1.1
 this is **bold text**
